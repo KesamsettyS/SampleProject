@@ -1,1 +1,1 @@
-echo "Welocome to Git"
+echo "Welocome to Git Training"
